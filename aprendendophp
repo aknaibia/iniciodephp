@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendendo PHP</title>
+</head>
+<body>
+    <h1>Aprendendo PHP</h1>
+    <?php 
+    //Eu quero me formar logo.
+    //socorro
+    //preciso ir embora.
+    //socorro
+    /**Quero passar num concurso*/
+    echo "Aqui aparece o texto na tela do usuário."
+    ?>
+</body>
+</html>
